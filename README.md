@@ -4,7 +4,7 @@ Project in ComSci 150
 Creates a browser/website in which you are able to do the following methods:
 - Polynomial Regression
 - Quadratic Spline Interpolation
-- Simplex Method (Maximization) *Based on a problem given by the professor*
+- Simplex Method (Maximization)
 
 # POLYNOMIAL REGRESSION
 ## CHECKLIST
